@@ -1,2 +1,2 @@
-# proces-images-ia
-Practical assigments from to the course in Sadosky Foundation 2024 year
+# Image Processing - IA
+Practical assignments from the course in Sadosky Foundation 2024 year
